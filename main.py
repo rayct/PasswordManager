@@ -54,7 +54,7 @@ def main():
 
     pm = PasswordManager()
 
-    print('''What do you wan/'t to do..?
+    print('''What do you wan\'t to do..?
     (1) Creat a new key
     (2) Load an existing
     (3) Create a new password file
